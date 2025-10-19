@@ -12,8 +12,21 @@ To write a Python program that defines a function which accepts two values and r
 
 ## 🧾 Program
 
-Add code Here
+```
+a=int(input ())
+b=int(input ())
+def result (a,b):
+    gh=a%b
+    return gh
+gh=result (a,b)
+print ("modulo is",gh)
+```
 
 ## Output
 
+<img width="614" height="302" alt="Screenshot 2025-10-19 213033" src="https://github.com/user-attachments/assets/76b7bbfc-cc95-45a8-a49d-299dbbc40f79" />
+
+
+
 ## Result
+Thus ,the python progrsm has been executed successfully
