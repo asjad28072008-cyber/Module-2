@@ -18,8 +18,9 @@ print(result(a,b))
 
 ## Output
 
+<img width="383" height="217" alt="Screenshot 2025-10-20 104740" src="https://github.com/user-attachments/assets/ae237dc1-c1c9-4b89-ae83-4a427c96e51d" />
 
-<img width="378" height="121" alt="Screenshot 2025-10-19 211607" src="https://github.com/user-attachments/assets/6c5668b1-33a6-4448-af78-e162c880fa2b" />
+
 
 ## Result
 Thus,the python program has been executed successfully
